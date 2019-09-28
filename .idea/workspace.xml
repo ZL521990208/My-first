@@ -7,37 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a95c82e7-f18c-4d32-8359-2cbec81b1891" name="Default Changelist" comment="Java-web多模块结构初始化">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/CSS/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/Service/LoginService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/ImageResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/MockHttp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/TextHtmlResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/HomeServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/SignInServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/StudentServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/home.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/images/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/sign-in.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/student.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/top.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/Service/LoginService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/entity/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/http/ImageResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/http/MockHttp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/http/TextHtmlResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/HomeServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/SignInServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +180,7 @@
       <workItem from="1569597972467" duration="2703000" />
       <workItem from="1569629975795" duration="1551000" />
       <workItem from="1569631555485" duration="2514000" />
-      <workItem from="1569635231165" duration="238000" />
+      <workItem from="1569635231165" duration="505000" />
     </task>
     <servers />
   </component>
@@ -222,7 +192,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
