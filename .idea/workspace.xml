@@ -7,75 +7,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a95c82e7-f18c-4d32-8359-2cbec81b1891" name="Default Changelist" comment="Java-web多模块结构初始化">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/My_first_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/my_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_first_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My-first.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/my-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/Service/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/http/ImageResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/http/MockHttp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/http/TextHtmlResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/SignInServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/StudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/images/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/sign-in.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-web/web/top.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/Service/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/ImageResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/MockHttp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/TextHtmlResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/HomeServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/SignInServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/StudentServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/images/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/sign-in.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/student.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/top.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/Service/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/entity/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/http/ImageResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/http/MockHttp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/http/TextHtmlResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/HomeServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/SignInServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/StudentServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/http/MockHttp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/servlet/StudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/web-first.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-first/web/student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/CSS/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/Service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/ImageResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/MockHttp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/TextHtmlResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/HomeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/SignInServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/sign-in.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/top.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/Service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/entity/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/http/ImageResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/http/MockHttp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/http/TextHtmlResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/HomeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/SignInServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-web/servlet/StudentServlet.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -248,6 +210,7 @@
       <workItem from="1569597972467" duration="2703000" />
       <workItem from="1569629975795" duration="1551000" />
       <workItem from="1569631555485" duration="2514000" />
+      <workItem from="1569635231165" duration="238000" />
     </task>
     <servers />
   </component>
