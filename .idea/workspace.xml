@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a95c82e7-f18c-4d32-8359-2cbec81b1891" name="Default Changelist" comment="Java-web多模块结构初始化">
+      <change afterPath="$PROJECT_DIR$/my-web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-web/src/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-web/src/entity/Book.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-web/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-first" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -57,8 +60,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\My-first\my-web\web" />
+      <recent name="D:\My-first\web-first" />
       <recent name="D:\My-first\my-web" />
+      <recent name="D:\My-first\my-web\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,7 +184,7 @@
       <workItem from="1569597972467" duration="2703000" />
       <workItem from="1569629975795" duration="1551000" />
       <workItem from="1569631555485" duration="2514000" />
-      <workItem from="1569635231165" duration="505000" />
+      <workItem from="1569635231165" duration="2766000" />
     </task>
     <servers />
   </component>

@@ -55,6 +55,11 @@ public class Book {
     }
 
     @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
+
+    @Override
     public String toString() {
         return "Book{" +
                 "id=" + id +
