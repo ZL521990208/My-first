@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="my-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a95c82e7-f18c-4d32-8359-2cbec81b1891" name="Default Changelist" comment="Java-web多模块结构初始化">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/My_first_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/my_web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_first_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My-first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/my-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/Service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/http/ImageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/http/MockHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/http/TextHtmlResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/HomeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/SignInServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/src/servlet/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-web/web/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/Service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/ImageResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/MockHttp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/http/TextHtmlResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/HomeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/SignInServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/classes/servlet/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/my_web_war_exploded/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/Service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/entity/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/http/ImageResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/http/MockHttp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/http/TextHtmlResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/HomeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/SignInServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/my-web/servlet/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/http/MockHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/src/com/web/servlet/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/web-first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-first/web/student.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1RQGyBPllfLElWuiFA6GUSDiwQN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-web/web" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My-first\my-web\web" />
+      <recent name="D:\My-first\my-web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.24">
+    <configuration name="MockHttp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.http.MockHttp" />
+      <module name="web-first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="my-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_24_My-first_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50965" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="my-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MockHttp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a95c82e7-f18c-4d32-8359-2cbec81b1891" name="Default Changelist" comment="" />
+      <created>1569592157236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569592157236</updated>
+      <workItem from="1569592170582" duration="4031000" />
+      <workItem from="1569597972467" duration="2703000" />
+      <workItem from="1569629975795" duration="1551000" />
+      <workItem from="1569631555485" duration="2514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java-web多模块结构初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java-web多模块结构初始化" />
+  </component>
+</project>
